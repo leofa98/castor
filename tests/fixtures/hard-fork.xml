@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/6HKOhNgS" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>Hard Fork</title>
+    <description>“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. 
+
+Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</description>
+    <copyright>© 2022 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service.</copyright>
+    <language>en</language>
+    <pubDate>Fri, 29 May 2026 11:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 11:48:54 +0000</lastBuildDate>
+    <image>
+      <link>https://www.nytimes.com/column/hard-fork</link>
+      <title>Hard Fork</title>
+      <url>https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://www.nytimes.com/column/hard-fork</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. 
+
+Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</itunes:summary>
+    <itunes:author>The New York Times</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/6HKOhNgS</itunes:new-feed-url>
+    <itunes:owner>
+      <itunes:name>The New York Times</itunes:name>
+      <itunes:email>hardfork@nytimes.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">ac9b5539-ffff-4492-8fb3-912754ec9cdd</guid>
+      <title>Interesting Times: Why Are We Still Driving?</title>
+      <description><![CDATA[<p>The “Hard Fork” team is taking a break this week as we prepare for our upcoming live show in San Francisco.</p>
+<p>While we’re away, we’re bringing you a recent episode of “Interesting Times” with Ross Douthat that we really enjoyed.</p>
+<p>In this episode, Ross talks with Andrew Miller, writer of the transportation policy newsletter “Changing Lanes” and co-author of the book “The End of Driving.”</p>
+<p>Together, they explore the potential benefits of driverless cars — from fewer car crashes to reclaimed time and attention — as well as what could be lost if we don’t have to be in the driver’s seat anymore.</p>
+<p><br><strong>Guest:</strong></p>
+<ul>
+ <li>Andrew Miller,  writer of the newsletter <a href="https://www.changinglanesnewsletter.com/about" rel="noopener noreferrer">“Changing Lanes.”</a></li>
+</ul>
+<p><br><strong>Additional Reading:</strong></p>
+<ul>
+ <li>A full transcript and video of this episode can be found <a href="https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html" rel="noopener noreferrer">here</a>. </li>
+</ul>
+<p><br>
+ We want to hear from you. Email us at hardfork@nytimes.com. Find “Hard Fork” on <a href="https://www.youtube.com/hardfork" rel="noopener noreferrer">YouTube</a> and <a href="https://www.tiktok.com/@hardfork" rel="noopener noreferrer">TikTok</a>.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></description>
+      <pubDate>Fri, 29 May 2026 11:00:00 +0000</pubDate>
+      <author>hardfork@nytimes.com (The New York Times)</author>
+      <link>https://www.nytimes.com/column/hard-fork</link>
+      <content:encoded><![CDATA[<p>The “Hard Fork” team is taking a break this week as we prepare for our upcoming live show in San Francisco.</p>
+<p>While we’re away, we’re bringing you a recent episode of “Interesting Times” with Ross Douthat that we really enjoyed.</p>
+<p>In this episode, Ross talks with Andrew Miller, writer of the transportation policy newsletter “Changing Lanes” and co-author of the book “The End of Driving.”</p>
+<p>Together, they explore the potential benefits of driverless cars — from fewer car crashes to reclaimed time and attention — as well as what could be lost if we don’t have to be in the driver’s seat anymore.</p>
+<p><br><strong>Guest:</strong></p>
+<ul>
+ <li>Andrew Miller,  writer of the newsletter <a href="https://www.changinglanesnewsletter.com/about" rel="noopener noreferrer">“Changing Lanes.”</a></li>
+</ul>
+<p><br><strong>Additional Reading:</strong></p>
+<ul>
+ <li>A full transcript and video of this episode can be found <a href="https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html" rel="noopener noreferrer">here</a>. </li>
+</ul>
+<p><br>
+ We want to hear from you. Email us at hardfork@nytimes.com. Find “Hard Fork” on <a href="https://www.youtube.com/hardfork" rel="noopener noreferrer">YouTube</a> and <a href="https://www.tiktok.com/@hardfork" rel="noopener noreferrer">TikTok</a>.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></content:encoded>
+      <enclosure length="56316402" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/897baa98-204a-4e26-b77f-b979c4b8f93e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&amp;awEpisodeId=897baa98-204a-4e26-b77f-b979c4b8f93e&amp;feed=6HKOhNgS"/>
+      <itunes:title>Interesting Times: Why Are We Still Driving?</itunes:title>
+      <itunes:author>The New York Times</itunes:author>
+      <itunes:duration>00:58:39</itunes:duration>
+      <itunes:summary>Confronting the weirdness of a Waymo future.</itunes:summary>
+      <itunes:subtitle>Confronting the weirdness of a Waymo future.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>196</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">eae61d33-b7f8-4944-b34c-fe24e145f603</guid>
+      <title>Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update</title>
+      <description><![CDATA[<p>This week, we headed to Mountain View, Calif., for the annual developer event Google I/O. We share our reactions to Google’s biggest announcements, including a revamped search box, new agentic tools that compete with OpenClaw and an updated flash model of Gemini that the company says is faster than competitors. Then, we ask Sundar Pichai, the company’s chief executive, how he’s responding to growing evidence that the public is souring on A.I., what advice he’d give to college grads frightened by the current job market and where the company stands relative to competitors in the A.I. race. Finally, we run through the other big tech headlines of the week in our segment System Update.</p>
+<p><br><strong>Guest:</strong></p>
+<ul>
+ <li><a href="https://blog.google/authors/sundar-pichai/" rel="noopener noreferrer">Sundar Pichai,</a> chief executive of Google.</li>
+</ul>
+<p><br><strong>Additional Reading:</strong></p>
+<ul>
+ <li><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html" rel="noopener noreferrer">Google Changes Its Search Box for the First Time in 25 Years</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html" rel="noopener noreferrer">How Google Is Starting to Win the A.I. Race</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html" rel="noopener noreferrer">Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html" rel="noopener noreferrer">Before Mass Layoffs, Meta Reassigns 7,000 Workers to Focus on A.I.</a></li>
+ <li><a href="https://www.bloomberg.com/news/articles/2026-05-18/anthropic-s-co-founder-to-launch-encyclical-on-ai-with-pope-leo" rel="noopener noreferrer">Pope to Launch Encyclical on AI Alongside Anthropic Co-Founder</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/20/books/ai-fiction-contest-granta.html" rel="noopener noreferrer">Was a Story That Just Won a Literary Prize A.I.-Generated?</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html" rel="noopener noreferrer">Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.</a></li>
+</ul>
+<p><br>
+ We want to hear from you. Email us at hardfork@nytimes.com. Find “Hard Fork” on <a href="https://www.youtube.com/hardfork" rel="noopener noreferrer">YouTube</a> and <a href="https://www.tiktok.com/@hardfork" rel="noopener noreferrer">TikTok</a>.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></description>
+      <pubDate>Fri, 22 May 2026 11:00:00 +0000</pubDate>
+      <author>hardfork@nytimes.com (The New York Times)</author>
+      <link>https://www.nytimes.com/column/hard-fork</link>
+      <content:encoded><![CDATA[<p>This week, we headed to Mountain View, Calif., for the annual developer event Google I/O. We share our reactions to Google’s biggest announcements, including a revamped search box, new agentic tools that compete with OpenClaw and an updated flash model of Gemini that the company says is faster than competitors. Then, we ask Sundar Pichai, the company’s chief executive, how he’s responding to growing evidence that the public is souring on A.I., what advice he’d give to college grads frightened by the current job market and where the company stands relative to competitors in the A.I. race. Finally, we run through the other big tech headlines of the week in our segment System Update.</p>
+<p><br><strong>Guest:</strong></p>
+<ul>
+ <li><a href="https://blog.google/authors/sundar-pichai/" rel="noopener noreferrer">Sundar Pichai,</a> chief executive of Google.</li>
+</ul>
+<p><br><strong>Additional Reading:</strong></p>
+<ul>
+ <li><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html" rel="noopener noreferrer">Google Changes Its Search Box for the First Time in 25 Years</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html" rel="noopener noreferrer">How Google Is Starting to Win the A.I. Race</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html" rel="noopener noreferrer">Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html" rel="noopener noreferrer">Before Mass Layoffs, Meta Reassigns 7,000 Workers to Focus on A.I.</a></li>
+ <li><a href="https://www.bloomberg.com/news/articles/2026-05-18/anthropic-s-co-founder-to-launch-encyclical-on-ai-with-pope-leo" rel="noopener noreferrer">Pope to Launch Encyclical on AI Alongside Anthropic Co-Founder</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/20/books/ai-fiction-contest-granta.html" rel="noopener noreferrer">Was a Story That Just Won a Literary Prize A.I.-Generated?</a></li>
+ <li><a href="https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html" rel="noopener noreferrer">Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.</a></li>
+</ul>
+<p><br>
+ We want to hear from you. Email us at hardfork@nytimes.com. Find “Hard Fork” on <a href="https://www.youtube.com/hardfork" rel="noopener noreferrer">YouTube</a> and <a href="https://www.tiktok.com/@hardfork" rel="noopener noreferrer">TikTok</a>.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></content:encoded>
+      <enclosure length="53145712" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&amp;awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&amp;feed=6HKOhNgS"/>
+      <itunes:title>Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update</itunes:title>
+      <itunes:author>The New York Times</itunes:author>
+      <itunes:duration>00:55:21</itunes:duration>
+      <itunes:summary>“This is the only recent gathering of a large number of people where mentions of A.I. did not produce a large chorus of boos.”</itunes:summary>
+      <itunes:subtitle>“This is the only recent gathering of a large number of people where mentions of A.I. did not produce a large chorus of boos.”</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>195</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">4e573fc5-f8ff-404c-af6e-a003d8835d31</guid>
+      <title>What’s a Hard Fork?</title>
+      <description><![CDATA[<p>Hosts Kevin Roose and Casey Newton explore stories from the wild frontier of tech.</p><p>What’s real? What’s hype? “Hard Fork” is here to help you make sense of it. Tune in every Friday.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></description>
+      <pubDate>Tue, 27 Sep 2022 14:00:00 +0000</pubDate>
+      <author>hardfork@nytimes.com (The New York Times)</author>
+      <link>https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html</link>
+      <content:encoded><![CDATA[<p>Hosts Kevin Roose and Casey Newton explore stories from the wild frontier of tech.</p><p>What’s real? What’s hype? “Hard Fork” is here to help you make sense of it. Tune in every Friday.</p>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></content:encoded>
+      <enclosure length="1352917" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/e8ace451-6d90-460a-acca-9e715422ea13/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&amp;awEpisodeId=e8ace451-6d90-460a-acca-9e715422ea13&amp;feed=6HKOhNgS"/>
+      <itunes:title>What’s a Hard Fork?</itunes:title>
+      <itunes:author>The New York Times</itunes:author>
+      <itunes:duration>00:01:24</itunes:duration>
+      <itunes:summary>Hosts Kevin Roose and Casey Newton explore stories from the wild frontier of tech.
+
+What’s real? What’s hype? “Hard Fork” is here to help you make sense of it. Tune in every Friday.
+</itunes:summary>
+      <itunes:subtitle>Hosts Kevin Roose and Casey Newton explore stories from the wild frontier of tech.
+
+What’s real? What’s hype? “Hard Fork” is here to help you make sense of it. Tune in every Friday.
+</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
