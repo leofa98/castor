@@ -54,3 +54,6 @@ Keys: `s` search, `r` refresh, `d` download, `p` play, `q` quit, `esc` go back.
 ```
 pytest test_project.py -v
 ```
+## Demonstration video
+
+[![Demonstration video](/img/video_demonstration.png)](https://youtu.be/2lhQ52Gpwnk)
